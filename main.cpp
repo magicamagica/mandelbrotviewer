@@ -6,7 +6,7 @@
 
 const int WIDTH = 800;
 const int HEIGHT = 600;
-const int MAX_ITER = 1200;
+const int MAX_ITER = 1200; // Increase / Decrease iterations for less/more visualization
 
 sf::Color mandelbrotColor(int n) {
     if (n == MAX_ITER) return sf::Color::Black;
