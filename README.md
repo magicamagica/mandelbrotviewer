@@ -1,6 +1,6 @@
 # Mandelbrot Set Viewer ∞
 
-A Mandelbrot Set Viewer application, made in c++, that demonstrates a finitely** zooming fractal using the SFML (Simple and Fast Multimedia Library). This application continuously zooms into the Mandelbrot set, showcasing its intricate patterns and details.
+A Mandelbrot Set Viewer application, written in ~110 lines of C++, that demonstrates a finitely** zooming fractal using the SFML (Simple and Fast Multimedia Library). This application continuously zooms into the Mandelbrot set, showcasing its intricate patterns and details.
 
 **The Mandelbrot Viewer's visualization depends on the iterations. You'll need to play around with the MAX_ITER value to get less/more visualization. Beware of slow compute times.
 
